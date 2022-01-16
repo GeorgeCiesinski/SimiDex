@@ -1,5 +1,10 @@
 # SimiDex
 
+<p align="center">
+    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+        <img src="https://img.shields.io/badge/license-GPL%20v3-blue" /></a>
+</p>
+
 A Flask app for inserting text and image templates using a shortcut
 
 This repo is in progress and not yet open to contributions. I am attempting to remake a two year old project 
